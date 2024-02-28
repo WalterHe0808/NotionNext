@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '探索AI前沿',
-  HEO_HERO_TITLE_2: '分享实用工具',
+  HEO_HERO_TITLE_1: '打造AI知识库',
+  HEO_HERO_TITLE_2: '探索前沿科技',
   HEO_HERO_TITLE_3: '持续更新',
   HEO_HERO_TITLE_4: '时间留给自己,工作交给AI',
   HEO_HERO_TITLE_5: '手把手AI落地教程指南',
@@ -36,11 +36,8 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🤖️ 人工智能爱好者'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
