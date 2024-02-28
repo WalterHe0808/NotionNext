@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客'},//, url: 'https://blog.tangly1024.com' 
-    //{ title: '访问文档中心获取更多帮助', url: '' }
+    { title: '欢迎来到AI时代',url: ''}, 
+    //{ title: '时间留给自己,工作交给AI', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,12 +15,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '探索前沿AI技术',
-  HEO_HERO_TITLE_2: '分享实用AI工具',
-  HEO_HERO_TITLE_3: '时间留给自己，工作交给AI',
-  HEO_HERO_TITLE_4: '持续更新',
-  HEO_HERO_TITLE_5: '手把手AI落地指南，最实用的AI知识库',
-  //HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '探索AI前沿',
+  HEO_HERO_TITLE_2: '分享实用工具',
+  HEO_HERO_TITLE_3: '持续更新',
+  HEO_HERO_TITLE_4: '时间留给自己,工作交给AI',
+  HEO_HERO_TITLE_5: '手把手AI落地教程指南',
+  HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/tag/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B?theme=heo',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
