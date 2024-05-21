@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到AI时代',url: ''}, 
-    { title: '时间留给自己、工作交给AI', url: '' }
+    { title: '所有生意都能用AI+短视频重做一遍', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -15,11 +15,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '打造AI知识库',
-  HEO_HERO_TITLE_2: '探索前沿科技',
+  HEO_HERO_TITLE_1: '公域引流私域成交',
+  HEO_HERO_TITLE_2: 'AI赋能实体',
   HEO_HERO_TITLE_3: '持续更新',
-  HEO_HERO_TITLE_4: '时间留给自己,工作交给AI',
-  HEO_HERO_TITLE_5: '手把手AI落地教程指南',
+  HEO_HERO_TITLE_4: '所有生意都能用AI+短视频重做一遍',
+  HEO_HERO_TITLE_5: 'AI时代，跟着清华哥就完事了~',
   HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/tag/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B?theme=heo',
 
   // 英雄区显示三个置顶分类
@@ -35,9 +35,9 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🏃 脚踏实地行动派',
-    '🤖️ 人工智能爱好者'
+    '🏃 10年科技互联网创业者',
+    '🤖️ 3年精准流量获客10W+',
+    '🏃 知识付费亿级超盘手'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/WalterHe0808', // 个人资料底部按钮链接
 
