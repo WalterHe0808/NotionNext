@@ -15,8 +15,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '公域AI引流',
-  HEO_HERO_TITLE_2: '私域AI成交',
+  HEO_HERO_TITLE_1: 'AI公域获客',
   HEO_HERO_TITLE_3: '持续更新',
   HEO_HERO_TITLE_4: '所有生意都能用AI+短视频重做一遍',
   HEO_HERO_TITLE_5: 'AI时代，跟着清华哥就完事了~',
