@@ -15,17 +15,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '公域引流私域成交',
-  HEO_HERO_TITLE_2: 'AI赋能实体',
+  HEO_HERO_TITLE_1: '公域AI引流',
+  HEO_HERO_TITLE_2: '私域AI成交',
   HEO_HERO_TITLE_3: '持续更新',
   HEO_HERO_TITLE_4: '所有生意都能用AI+短视频重做一遍',
   HEO_HERO_TITLE_5: 'AI时代，跟着清华哥就完事了~',
   HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/tag/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B?theme=heo',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '市场分析', url: '/tag/市场分析' },
-  HEO_HERO_CATEGORY_2: { title: '公域引流', url: '/tag/公域引流' },
-  HEO_HERO_CATEGORY_3: { title: '私域成交', url: '/tag/私域成交' },
+  HEO_HERO_CATEGORY_1: { title: '公域引流', url: '/tag/公域引流' },
+  HEO_HERO_CATEGORY_2: { title: '私域成交', url: '/tag/私域成交' },
+  HEO_HERO_CATEGORY_3: { title: '市场分析', url: '/tag/市场分析' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -37,7 +37,7 @@ const CONFIG = {
     '你好！我是',
     '🏃 10年科技互联网创业者',
     '🤖️ 3年精准流量获客10W+',
-    '🏃 知识付费亿级超盘手'
+    '🤝 知识付费亿级超盘手'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/WalterHe0808', // 个人资料底部按钮链接
 
@@ -102,9 +102,9 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
+  HEO_SOCIAL_CARD_TITLE_1: '链接清华哥',
+  HEO_SOCIAL_CARD_TITLE_2: '和清华哥聊聊',
+  HEO_SOCIAL_CARD_TITLE_3: '点击加我微信',
   HEO_SOCIAL_CARD_URL: 'https://www.jiehe.tech/about',
 
   // *****  以下配置无效，只是预留开发 ****
