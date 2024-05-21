@@ -23,9 +23,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/tag/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B?theme=heo',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '公域引流', url: '/tag/公域引流' },
-  HEO_HERO_CATEGORY_2: { title: '私域成交', url: '/tag/私域成交' },
-  HEO_HERO_CATEGORY_3: { title: '市场分析', url: '/tag/市场分析' },
+  HEO_HERO_CATEGORY_1: { title: '有厂', url: '/tag/有厂' },
+  HEO_HERO_CATEGORY_2: { title: '有店', url: '/tag/有店' },
+  HEO_HERO_CATEGORY_3: { title: '有服务', url: '/tag/有服务' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
