@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '私域AI成交',
   HEO_HERO_TITLE_3: '持续更新',
   HEO_HERO_TITLE_4: '所有生意都能用AI+短视频重做一遍',
-  HEO_HERO_TITLE_5: 'AI时代，流量获客跟着清华哥就完事了~',
+  HEO_HERO_TITLE_5: 'AI时代，跟着清华哥就完事了~',
   HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/tag/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B?theme=heo',
 
   // 英雄区显示三个置顶分类
