@@ -11,3 +11,6 @@
     color: white; /* 改为白色 */
     font-size: 1.5rem; /* 调整后的字体大小 */
 }
+.text-3xl {
+    font-size: 1.25rem; /* 修改为所需的字体大小 */
+}
