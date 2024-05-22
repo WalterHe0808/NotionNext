@@ -20,8 +20,8 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'AI同行拆解',
   HEO_HERO_TITLE_3: '流量获客是一套组合拳',
-  HEO_HERO_TITLE_4: '所有生意都能用AI+短视频重做一遍',
-  HEO_HERO_TITLE_5: 'AI时代，跟着清华哥就完事了~',
+  HEO_HERO_TITLE_4: 'AI时代，跟着清华哥就完事了~',
+  HEO_HERO_TITLE_5: '所有生意都能用AI+短视频重做一遍',
   HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/category/%E5%85%AC%E5%9F%9F%E5%BC%95%E6%B5%81%E7%B3%BB%E5%88%97?theme=heo',
 
   // 英雄区显示三个置顶分类
