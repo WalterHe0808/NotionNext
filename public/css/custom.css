@@ -8,6 +8,6 @@
 }
 
 #bannerGroup a div {
-    color: red;
-    font-size: 2rem;
+    color: white; /* 改为白色 */
+    font-size: 1.5rem; /* 调整后的字体大小 */
 }
