@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: '流量获客是一套组合拳',
   HEO_HERO_TITLE_4: '所有生意都能用AI+短视频重做一遍',
   HEO_HERO_TITLE_5: 'AI时代，跟着清华哥就完事了~',
-  HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/tag/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B?theme=heo',
+  HEO_HERO_TITLE_LINK: 'https://www.jiehe.tech/category/%E5%85%AC%E5%9F%9F%E5%BC%95%E6%B5%81%E7%B3%BB%E5%88%97?theme=heo',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '有厂', url: '/tag/有厂' },
