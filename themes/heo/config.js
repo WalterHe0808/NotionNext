@@ -51,7 +51,7 @@ const CONFIG = {
       color_1: '#989bf8',
       title_2: 'icon_fuzhuang',
       img_2: '/images/heo/icon_fuzhuang.webp',
-      color_2: '#ffffff'
+      color_2: '#eb6840'
     },
     {
       title_1: 'icon_gongchang',
@@ -64,10 +64,10 @@ const CONFIG = {
     {
       title_1: 'icon_jiancai',
       img_1: '/images/heo/icon_jiancai.webp',
-      color_1: '#ffffff',
+      color_1: '#f7cb4f',
       title_2: 'icon_jiaopei',
       img_2: '/images/heo/icon_jiaopei.webp',
-      color_2: '#ffffff'
+      color_2: '#e9572b'
     },
     {
       title_1: 'icon_jiazheng',
